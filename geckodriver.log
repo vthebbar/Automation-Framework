@@ -1,0 +1,62 @@
+1639558169416	geckodriver	INFO	Listening on 127.0.0.1:62635
+1639558172475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62636" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileAEh78z"
+1639558178370	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileAEh78z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62636/devtools/browser/1134c6f5-f64d-4d00-a338-793d9049543c
+1639558199244	Marionette	INFO	Listening on port 62643
+1639558199497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639558204171	Marionette	INFO	Stopped listening on port 62643
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 980, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1639558208233	geckodriver	INFO	Listening on 127.0.0.1:62717
+1639558211323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62718" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiled6cE2P"
+1639558212339	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiled6cE2P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62718/devtools/browser/de841b46-d277-4ae3-a127-f02ba0eb70ae
+1639558216778	Marionette	INFO	Listening on port 62725
+1639558217984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639558269380	Marionette	INFO	Stopped listening on port 62725
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 4636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639558614691	geckodriver	INFO	Listening on 127.0.0.1:62968
+1639558617754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62969" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilew0tGU8"
+1639558619916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilew0tGU8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62969/devtools/browser/b7c205f8-5d6c-4ab1-8473-2183d594a544
+1639558624533	Marionette	INFO	Listening on port 62976
+1639558625765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639558627050	Marionette	INFO	Stopped listening on port 62976
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1639558698787	geckodriver	INFO	Listening on 127.0.0.1:63039
+1639558701832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63040" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilerDM2gI"
+1639558703109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilerDM2gI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63040/devtools/browser/5a50793b-0a62-4824-b94c-8fd744080ece
+1639558707455	Marionette	INFO	Listening on port 63047
+1639558708461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639559116154	Marionette	INFO	Stopped listening on port 63047
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 7184, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

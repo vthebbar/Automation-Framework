@@ -1,0 +1,486 @@
+15122021 04:08:35 PM: INFO: 
+
+15122021 04:08:35 PM: INFO: ====== WebDriver manager ======
+15122021 04:08:35 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 04:08:35 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 04:08:36 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 04:08:38 PM: INFO: ***********Test_001_Login**********
+15122021 04:08:38 PM: INFO: ***********Verify Home Page Title**********
+15122021 04:08:45 PM: ERROR: ***********Verify Home Page Title - FAILED **********
+15122021 04:08:45 PM: INFO: 
+
+15122021 04:08:45 PM: INFO: ====== WebDriver manager ======
+15122021 04:08:45 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 04:08:45 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 04:08:45 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 04:08:47 PM: INFO: ***********Verify Login Page Title**********
+15122021 04:08:55 PM: INFO: ***********Verify Login Page Title - PASSED **********
+15122021 04:47:48 PM: INFO: 
+
+15122021 04:47:48 PM: INFO: ====== WebDriver manager ======
+15122021 04:47:48 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 04:47:48 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 04:47:49 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 04:47:51 PM: INFO: ***********Test_001_Login**********
+15122021 04:47:51 PM: INFO: ***********Verify Home Page Title**********
+15122021 04:48:14 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 04:48:14 PM: INFO: 
+
+15122021 04:48:14 PM: INFO: ====== WebDriver manager ======
+15122021 04:48:14 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 04:48:14 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 04:48:14 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 04:48:16 PM: INFO: ***********Verify Login Page Title**********
+15122021 04:49:03 PM: INFO: ***********Verify Login Page Title - PASSED **********
+15122021 04:49:21 PM: INFO: 
+
+15122021 04:49:21 PM: INFO: ====== WebDriver manager ======
+15122021 04:49:25 PM: INFO: Current firefox version is 94.0
+15122021 04:49:25 PM: INFO: Get LATEST geckodriver version for 94.0 firefox
+15122021 04:49:26 PM: INFO: Getting latest mozilla release info for v0.30.0
+15122021 04:49:26 PM: INFO: Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.30.0/geckodriver-v0.30.0-win64.zip
+15122021 04:49:28 PM: INFO: Driver has been saved in cache [C:\Users\user\.wdm\drivers\geckodriver\win64\v0.30.0]
+15122021 04:49:59 PM: INFO: ***********Test_001_Login**********
+15122021 04:49:59 PM: INFO: ***********Verify Home Page Title**********
+15122021 04:50:06 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 04:50:06 PM: INFO: 
+
+15122021 04:50:06 PM: INFO: ====== WebDriver manager ======
+15122021 04:50:07 PM: INFO: Current firefox version is 94.0
+15122021 04:50:07 PM: INFO: Get LATEST geckodriver version for 94.0 firefox
+15122021 04:50:08 PM: INFO: Driver [C:\Users\user\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+15122021 04:50:18 PM: INFO: ***********Verify Login Page Title**********
+15122021 04:51:12 PM: INFO: ***********Verify Login Page Title - PASSED **********
+15122021 04:56:53 PM: INFO: 
+
+15122021 04:56:53 PM: INFO: ====== WebDriver manager ======
+15122021 04:56:53 PM: INFO: Current firefox version is 94.0
+15122021 04:56:53 PM: INFO: Get LATEST geckodriver version for 94.0 firefox
+15122021 04:56:54 PM: INFO: Driver [C:\Users\user\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+15122021 04:57:06 PM: INFO: ***********Test_001_Login**********
+15122021 04:57:06 PM: INFO: ***********Verify Home Page Title**********
+15122021 04:58:17 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 04:58:17 PM: INFO: 
+
+15122021 04:58:17 PM: INFO: ====== WebDriver manager ======
+15122021 04:58:17 PM: INFO: Current firefox version is 94.0
+15122021 04:58:17 PM: INFO: Get LATEST geckodriver version for 94.0 firefox
+15122021 04:58:18 PM: INFO: Driver [C:\Users\user\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+15122021 04:58:28 PM: INFO: ***********Verify Login Page Title**********
+15122021 05:00:05 PM: INFO: 
+
+15122021 05:00:05 PM: INFO: ====== WebDriver manager ======
+15122021 05:00:05 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 05:00:05 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 05:00:05 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 05:00:07 PM: INFO: ***********Test_001_Login**********
+15122021 05:00:07 PM: INFO: ***********Verify Home Page Title**********
+15122021 05:00:10 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 05:00:10 PM: INFO: 
+
+15122021 05:00:10 PM: INFO: ====== WebDriver manager ======
+15122021 05:00:11 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 05:00:11 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 05:00:11 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 05:00:12 PM: INFO: ***********Verify Login Page Title**********
+15122021 05:01:11 PM: INFO: 
+
+15122021 05:01:11 PM: INFO: ====== WebDriver manager ======
+15122021 05:01:11 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 05:01:11 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 05:01:11 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 05:01:13 PM: INFO: ***********Test_001_Login**********
+15122021 05:01:13 PM: INFO: ***********Verify Home Page Title**********
+15122021 05:01:17 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 05:01:17 PM: INFO: 
+
+15122021 05:01:17 PM: INFO: ====== WebDriver manager ======
+15122021 05:01:17 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 05:01:17 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 05:01:17 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 05:01:18 PM: INFO: ***********Verify Login Page Title**********
+15122021 05:03:32 PM: INFO: 
+
+15122021 05:03:32 PM: INFO: ====== WebDriver manager ======
+15122021 05:03:32 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 05:03:32 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 05:03:32 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 05:03:34 PM: INFO: ***********Test_001_Login**********
+15122021 05:03:34 PM: INFO: ***********Verify Home Page Title**********
+15122021 05:03:57 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 05:03:57 PM: INFO: 
+
+15122021 05:03:57 PM: INFO: ====== WebDriver manager ======
+15122021 05:03:57 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 05:03:57 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 05:03:57 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 05:03:59 PM: INFO: ***********Verify Login Page Title**********
+15122021 05:04:25 PM: INFO: ***********Verify Login Page Title - PASSED **********
+15122021 05:18:00 PM: INFO: 
+
+15122021 05:18:00 PM: INFO: ====== WebDriver manager ======
+15122021 05:18:00 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 05:18:00 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 05:18:01 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 05:18:03 PM: INFO: ***********Test_001_Login**********
+15122021 05:18:03 PM: INFO: ***********Verify Home Page Title**********
+15122021 05:18:05 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 05:18:05 PM: INFO: 
+
+15122021 05:18:05 PM: INFO: ====== WebDriver manager ======
+15122021 05:18:05 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 05:18:05 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 05:18:06 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 05:18:07 PM: INFO: ***********Verify Login Page Title**********
+15122021 05:18:37 PM: INFO: ***********Verify Login Page Title - PASSED **********
+15122021 05:22:01 PM: INFO: 
+
+15122021 05:22:01 PM: INFO: ====== WebDriver manager ======
+15122021 05:22:01 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 05:22:01 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 05:22:01 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 05:22:03 PM: INFO: ***********Test_001_Login**********
+15122021 05:22:03 PM: INFO: ***********Verify Home Page Title**********
+15122021 05:22:05 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 05:22:05 PM: INFO: 
+
+15122021 05:22:05 PM: INFO: ====== WebDriver manager ======
+15122021 05:22:05 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 05:22:05 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 05:22:06 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 05:22:07 PM: INFO: ***********Verify Login Page Title**********
+15122021 05:22:14 PM: INFO: ***********Verify Login Page Title - PASSED **********
+15122021 05:26:41 PM: INFO: ***********Test_001_Login**********
+15122021 05:26:41 PM: INFO: ***********Verify Home Page Title**********
+15122021 05:26:45 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 05:26:49 PM: INFO: ***********Verify Login Page Title**********
+15122021 05:26:58 PM: INFO: ***********Verify Login Page Title - PASSED **********
+15122021 06:04:09 PM: INFO: 
+
+15122021 06:04:09 PM: INFO: ====== WebDriver manager ======
+15122021 06:04:09 PM: INFO: ====== WebDriver manager ======
+15122021 06:04:09 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 06:04:09 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 06:04:09 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 06:04:09 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 06:04:09 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 06:04:09 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 06:04:12 PM: INFO: ***********Verify Login Page Title**********
+15122021 06:04:13 PM: INFO: ***********Test_001_Login**********
+15122021 06:04:13 PM: INFO: ***********Verify Home Page Title**********
+15122021 06:04:40 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 06:05:00 PM: INFO: ***********Verify Login Page Title - PASSED **********
+15122021 06:15:26 PM: INFO: 
+
+15122021 06:15:26 PM: INFO: 
+
+15122021 06:15:26 PM: INFO: ====== WebDriver manager ======
+15122021 06:15:26 PM: INFO: ====== WebDriver manager ======
+15122021 06:15:26 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 06:15:26 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 06:15:26 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 06:15:26 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 06:15:26 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 06:15:26 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 06:15:28 PM: INFO: ***********Verify Login Page Title**********
+15122021 06:15:28 PM: INFO: ***********Test_001_Login**********
+15122021 06:15:28 PM: INFO: ***********Verify Home Page Title**********
+15122021 06:15:36 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 06:16:01 PM: INFO: ***********Verify Login Page Title - PASSED **********
+15122021 06:21:12 PM: INFO: 
+
+15122021 06:21:12 PM: INFO: ====== WebDriver manager ======
+15122021 06:21:12 PM: INFO: ====== WebDriver manager ======
+15122021 06:21:12 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 06:21:12 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 06:21:12 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 06:21:12 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 06:21:12 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 06:21:12 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 06:21:14 PM: INFO: ***********Verify Login Page Title**********
+15122021 06:21:15 PM: INFO: ***********Test_001_Login**********
+15122021 06:21:15 PM: INFO: ***********Verify Home Page Title**********
+15122021 06:21:22 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 06:21:22 PM: ERROR: ***********Verify Login Page Title - FAILED **********
+15122021 06:24:09 PM: INFO: 
+
+15122021 06:24:09 PM: INFO: 
+
+15122021 06:24:09 PM: INFO: ====== WebDriver manager ======
+15122021 06:24:09 PM: INFO: ====== WebDriver manager ======
+15122021 06:24:09 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 06:24:09 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 06:24:09 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 06:24:09 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 06:24:10 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 06:24:10 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 06:24:12 PM: INFO: ***********Verify Login Page Title**********
+15122021 06:24:12 PM: INFO: ***********Test_001_Login**********
+15122021 06:24:12 PM: INFO: ***********Verify Home Page Title**********
+15122021 06:24:15 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 06:24:19 PM: ERROR: ***********Verify Login Page Title - FAILED **********
+15122021 06:25:22 PM: INFO: 
+
+15122021 06:25:22 PM: INFO: 
+
+15122021 06:25:22 PM: INFO: ====== WebDriver manager ======
+15122021 06:25:22 PM: INFO: ====== WebDriver manager ======
+15122021 06:25:23 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 06:25:23 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 06:25:23 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 06:25:23 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 06:25:23 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 06:25:23 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 06:25:24 PM: INFO: ***********Test_001_Login**********
+15122021 06:25:24 PM: INFO: ***********Verify Home Page Title**********
+15122021 06:25:24 PM: INFO: ***********Verify Login Page Title**********
+15122021 06:25:27 PM: INFO: ***********Verify Home Page Title - PASSED **********
+15122021 06:25:31 PM: INFO: ***********Verify Login Page Title - PASSED **********
+15122021 07:18:49 PM: INFO: 
+
+15122021 07:18:49 PM: INFO: 
+
+15122021 07:18:49 PM: INFO: ====== WebDriver manager ======
+15122021 07:18:49 PM: INFO: ====== WebDriver manager ======
+15122021 07:18:49 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 07:18:49 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 07:18:49 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 07:18:49 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 07:18:50 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 07:18:50 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 07:18:52 PM: INFO: ***********Test_001_Login**********
+15122021 07:18:52 PM: INFO: ***********Verify Home Page Title**********
+15122021 07:18:52 PM: INFO: ***********Verify Login Page Title**********
+15122021 07:20:28 PM: INFO: 
+
+15122021 07:20:28 PM: INFO: ====== WebDriver manager ======
+15122021 07:20:28 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 07:20:28 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 07:20:29 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 07:20:30 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 07:20:30 PM: INFO: ***********Verifying Login DDT **********
+15122021 07:21:22 PM: INFO: Test Passed
+15122021 07:21:29 PM: INFO: Test Passed
+15122021 07:21:48 PM: INFO: Test Failed
+15122021 07:21:55 PM: INFO: Test Passed
+15122021 07:22:22 PM: INFO: Test Passed
+15122021 07:22:24 PM: INFO: ************Login DDT Failed*************
+15122021 07:28:13 PM: INFO: 
+
+15122021 07:28:13 PM: INFO: ====== WebDriver manager ======
+15122021 07:28:13 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 07:28:13 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 07:28:13 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 07:28:15 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 07:28:15 PM: INFO: ***********Verifying Login DDT **********
+15122021 07:28:22 PM: INFO: Test Passed
+15122021 07:28:28 PM: INFO: Test Passed
+15122021 07:28:32 PM: INFO: Test Failed
+15122021 07:28:38 PM: INFO: Test Passed
+15122021 07:28:42 PM: INFO: Test Passed
+15122021 07:28:45 PM: INFO: ************Login DDT Failed*************
+15122021 07:30:32 PM: INFO: 
+
+15122021 07:30:32 PM: INFO: ====== WebDriver manager ======
+15122021 07:30:32 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 07:30:32 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 07:30:33 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 07:30:34 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 07:30:34 PM: INFO: ***********Verifying Login DDT **********
+15122021 07:30:48 PM: INFO: Test Passed
+15122021 07:31:00 PM: INFO: Test Passed
+15122021 07:31:07 PM: INFO: Test Failed
+15122021 07:31:18 PM: INFO: Test Passed
+15122021 07:31:26 PM: INFO: Test Passed
+15122021 07:31:30 PM: INFO: ************Login DDT Failed*************
+15122021 07:32:18 PM: INFO: 
+
+15122021 07:32:18 PM: INFO: ====== WebDriver manager ======
+15122021 07:32:18 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 07:32:18 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 07:32:18 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 07:32:20 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 07:32:20 PM: INFO: ***********Verifying Login DDT **********
+15122021 07:32:33 PM: INFO: Test Passed
+15122021 07:32:43 PM: INFO: Test Passed
+15122021 07:32:52 PM: INFO: Test Failed
+15122021 07:33:02 PM: INFO: Test Passed
+15122021 07:33:11 PM: INFO: Test Passed
+15122021 07:33:16 PM: INFO: ************Login DDT Failed*************
+15122021 07:38:43 PM: INFO: 
+
+15122021 07:38:43 PM: INFO: ====== WebDriver manager ======
+15122021 07:38:43 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 07:38:43 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 07:38:43 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 07:38:45 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 07:38:45 PM: INFO: ***********Verifying Login DDT **********
+15122021 07:38:58 PM: INFO: Test Passed
+15122021 07:39:10 PM: INFO: Test Passed
+15122021 07:39:18 PM: INFO: Test Failed
+15122021 07:39:28 PM: INFO: Test Passed
+15122021 07:39:36 PM: INFO: Test Passed
+15122021 07:39:40 PM: INFO: ************Login DDT Failed*************
+15122021 07:47:02 PM: INFO: 
+
+15122021 07:47:02 PM: INFO: ====== WebDriver manager ======
+15122021 07:47:02 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 07:47:02 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 07:47:03 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 07:47:05 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 07:47:05 PM: INFO: ***********Verifying Login DDT **********
+15122021 07:51:36 PM: INFO: 
+
+15122021 07:51:36 PM: INFO: ====== WebDriver manager ======
+15122021 07:51:36 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 07:51:36 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 07:51:36 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 07:51:38 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 07:51:38 PM: INFO: ***********Verifying Login DDT **********
+15122021 07:52:10 PM: INFO: Test Passed
+15122021 07:52:21 PM: INFO: Test Passed
+15122021 07:52:29 PM: INFO: Test Failed
+15122021 07:53:00 PM: INFO: Test Passed
+15122021 07:53:08 PM: INFO: Test Passed
+15122021 07:53:12 PM: INFO: ************Login DDT Failed*************
+15122021 07:57:49 PM: INFO: 
+
+15122021 07:57:49 PM: INFO: ====== WebDriver manager ======
+15122021 07:57:49 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 07:57:49 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 07:57:49 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 07:57:51 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 07:57:51 PM: INFO: ***********Verifying Login DDT **********
+15122021 07:58:24 PM: INFO: Test Passed
+15122021 07:58:35 PM: INFO: Test Passed
+15122021 07:58:43 PM: INFO: Test Failed
+15122021 07:58:53 PM: INFO: Test Passed
+15122021 07:59:01 PM: INFO: Test Passed
+15122021 07:59:04 PM: INFO: ************Login DDT Failed*************
+15122021 08:09:52 PM: INFO: 
+
+15122021 08:09:52 PM: INFO: ====== WebDriver manager ======
+15122021 08:09:52 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 08:09:52 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 08:09:52 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 08:09:54 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 08:09:54 PM: INFO: ***********Verifying Login DDT **********
+15122021 08:10:26 PM: INFO: Test Passed
+15122021 08:10:37 PM: INFO: Test Passed
+15122021 08:10:37 PM: INFO: ***********Login DDT Passed**************
+15122021 08:10:37 PM: INFO: *****End of Test_002_DDT************* 
+15122021 08:10:37 PM: INFO: *****Test_002_DDT_Login Completed********* 
+15122021 08:10:50 PM: INFO: 
+
+15122021 08:10:50 PM: INFO: ====== WebDriver manager ======
+15122021 08:10:50 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 08:10:50 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 08:10:50 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 08:10:51 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 08:10:51 PM: INFO: ***********Verifying Login DDT **********
+15122021 08:11:23 PM: INFO: Test Passed
+15122021 08:11:33 PM: INFO: Test Passed
+15122021 08:11:33 PM: INFO: ***********Login DDT Passed**************
+15122021 08:11:33 PM: INFO: *****End of Test_002_DDT************* 
+15122021 08:11:33 PM: INFO: *****Test_002_DDT_Login Completed********* 
+15122021 08:12:01 PM: INFO: 
+
+15122021 08:12:01 PM: INFO: ====== WebDriver manager ======
+15122021 08:12:01 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 08:12:01 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 08:12:02 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 08:12:03 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 08:12:03 PM: INFO: ***********Verifying Login DDT **********
+15122021 08:12:34 PM: INFO: Test Passed
+15122021 08:12:44 PM: INFO: Test Passed
+15122021 08:12:52 PM: INFO: Test Passed
+15122021 08:12:59 PM: INFO: Test Passed
+15122021 08:13:05 PM: INFO: Test Passed
+15122021 08:13:05 PM: INFO: ***********Login DDT Passed**************
+15122021 08:13:05 PM: INFO: *****End of Test_002_DDT************* 
+15122021 08:13:05 PM: INFO: *****Test_002_DDT_Login Completed********* 
+15122021 08:15:23 PM: INFO: 
+
+15122021 08:15:23 PM: INFO: ====== WebDriver manager ======
+15122021 08:15:23 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 08:15:23 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 08:15:24 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 08:15:25 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 08:15:25 PM: INFO: ***********Verifying Login DDT **********
+15122021 08:15:38 PM: INFO: Test Passed
+15122021 08:15:48 PM: INFO: Test Passed
+15122021 08:15:55 PM: INFO: Test Passed
+15122021 08:16:02 PM: INFO: Test Passed
+15122021 08:16:10 PM: INFO: Test Passed
+15122021 08:16:13 PM: INFO: ***********Login DDT Passed**************
+15122021 08:16:13 PM: INFO: *****End of Test_002_DDT************* 
+15122021 08:16:13 PM: INFO: *****Test_002_DDT_Login Completed********* 
+15122021 08:16:53 PM: INFO: 
+
+15122021 08:16:53 PM: INFO: ====== WebDriver manager ======
+15122021 08:16:53 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 08:16:53 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 08:16:53 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 08:16:54 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 08:16:54 PM: INFO: ***********Verifying Login DDT **********
+15122021 08:17:07 PM: INFO: Test Passed
+15122021 08:17:19 PM: INFO: Test Passed
+15122021 08:17:25 PM: INFO: Test Passed
+15122021 08:17:32 PM: INFO: Test Passed
+15122021 08:17:40 PM: INFO: Test Passed
+15122021 08:17:44 PM: INFO: ***********Login DDT Passed**************
+15122021 08:17:44 PM: INFO: *****End of Test_002_DDT************* 
+15122021 08:17:44 PM: INFO: *****Test_002_DDT_Login Completed********* 
+15122021 08:18:55 PM: INFO: 
+
+15122021 08:18:55 PM: INFO: ====== WebDriver manager ======
+15122021 08:18:55 PM: INFO: Current google-chrome version is 96.0.4664
+15122021 08:18:55 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+15122021 08:18:55 PM: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+15122021 08:18:56 PM: INFO: ***********Test_002_DDT_Login**********
+15122021 08:18:56 PM: INFO: ***********Verifying Login DDT **********
+15122021 08:19:09 PM: INFO: Test Passed
+15122021 08:19:20 PM: INFO: Test Passed
+15122021 08:19:27 PM: INFO: Test Passed
+15122021 08:19:34 PM: INFO: Test Passed
+15122021 08:19:42 PM: INFO: Test Passed
+15122021 08:19:45 PM: INFO: ***********Login DDT Passed**************
+15122021 08:19:45 PM: INFO: *****End of Test_002_DDT************* 
+15122021 08:19:45 PM: INFO: *****Test_002_DDT_Login Completed********* 
+18122021 10:42:40 PM: INFO: ***********Test_001_Login**********
+18122021 10:42:40 PM: INFO: ***********Verify Home Page Title**********
+18122021 10:42:43 PM: INFO: ***********Verify Home Page Title - PASSED **********
+18122021 10:42:46 PM: INFO: ***********Verify Login Page Title**********
+18122021 10:42:56 PM: INFO: ***********Verify Login Page Title - PASSED **********
+19122021 15:10:35: INFO: ***********Test_001_Login**********
+19122021 15:10:35: INFO: ***********Verify Home Page Title**********
+19122021 15:10:37: INFO: ***********Verify Home Page Title - PASSED **********
+19122021 15:10:41: INFO: ***********Verify Login Page Title**********
+19122021 15:10:52: INFO: ***********Verify Login Page Title - PASSED **********
+19122021 15:32:22: INFO: ***********Test_001_Login**********
+19122021 15:32:22: INFO: ***********Verify Home Page Title**********
+19122021 15:32:25: INFO: ***********Verify Home Page Title - PASSED **********
+19122021 15:32:29: INFO: ***********Verify Login Page Title**********
+19122021 15:32:57: INFO: ***********Verify Login Page Title - PASSED **********
+20122021 09:02:24: INFO: ***********Test_001_Login**********
+20122021 09:02:24: INFO: ***********Verify Home Page Title**********
+20122021 09:02:27: INFO: ***********Verify Home Page Title - PASSED **********
+20122021 09:02:30: INFO: ***********Verify Login Page Title**********
+20122021 09:02:37: INFO: ***********Verify Login Page Title - PASSED **********
+20122021 15:08:53: INFO: 
+
+20122021 15:08:53: INFO: ====== WebDriver manager ======
+20122021 15:08:53: INFO: Current google-chrome version is 96.0.4664
+20122021 15:08:53: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+20122021 15:08:54: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_win32.zip
+20122021 15:08:59: INFO: Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45]
+20122021 15:09:09: INFO: ***********Test_002_DDT_Login**********
+20122021 15:09:09: INFO: ***********Verifying Login DDT **********
+20122021 15:09:22: INFO: Test Passed
+20122021 15:09:33: INFO: Test Passed
+20122021 15:09:40: INFO: Test Passed
+20122021 15:09:46: INFO: Test Passed
+20122021 15:09:55: INFO: Test Passed
+20122021 15:09:58: INFO: ***********Login DDT Passed**************
+20122021 15:09:58: INFO: *****End of Test_002_DDT************* 
+20122021 15:09:58: INFO: *****Test_002_DDT_Login Completed********* 
