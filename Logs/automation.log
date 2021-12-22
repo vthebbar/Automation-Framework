@@ -484,3 +484,453 @@
 20122021 15:09:58: INFO: ***********Login DDT Passed**************
 20122021 15:09:58: INFO: *****End of Test_002_DDT************* 
 20122021 15:09:58: INFO: *****Test_002_DDT_Login Completed********* 
+21122021 20:07:34: INFO: 
+
+21122021 20:07:34: INFO: ====== WebDriver manager ======
+21122021 20:07:34: INFO: Current google-chrome version is 96.0.4664
+21122021 20:07:34: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 20:07:35: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_win32.zip
+21122021 20:07:41: INFO: Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45]
+21122021 20:07:53: INFO: ********Starting Test_010_AddCustomer **********
+21122021 20:07:56: INFO: ***********Login Completed******************
+21122021 20:07:56: INFO: ***********Starting Add Customer ***************
+21122021 20:10:22: INFO: 
+
+21122021 20:10:22: INFO: ====== WebDriver manager ======
+21122021 20:10:22: INFO: Current google-chrome version is 96.0.4664
+21122021 20:10:22: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 20:10:23: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 20:10:24: INFO: ********Starting Test_010_AddCustomer **********
+21122021 20:10:28: INFO: ***********Login Completed******************
+21122021 20:10:28: INFO: ***********Starting Add Customer ***************
+21122021 20:14:35: INFO: 
+
+21122021 20:14:35: INFO: ====== WebDriver manager ======
+21122021 20:14:35: INFO: Current google-chrome version is 96.0.4664
+21122021 20:14:35: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 20:14:35: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 20:14:37: INFO: ********Starting Test_010_AddCustomer **********
+21122021 20:14:44: INFO: ***********Login Completed******************
+21122021 20:14:44: INFO: ***********Starting Add Customer ***************
+21122021 20:21:56: INFO: 
+
+21122021 20:21:56: INFO: ====== WebDriver manager ======
+21122021 20:21:56: INFO: Current google-chrome version is 96.0.4664
+21122021 20:21:56: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 20:21:56: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 20:21:57: INFO: ********Starting Test_010_AddCustomer **********
+21122021 20:22:05: INFO: ***********Login Completed******************
+21122021 20:22:05: INFO: ***********Starting Add Customer ***************
+21122021 20:23:11: INFO: ********Starting Test_010_AddCustomer **********
+21122021 20:25:33: INFO: 
+
+21122021 20:25:33: INFO: ====== WebDriver manager ======
+21122021 20:25:33: INFO: Current google-chrome version is 96.0.4664
+21122021 20:25:33: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 20:25:34: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 20:25:35: INFO: ********Starting Test_010_AddCustomer **********
+21122021 20:25:46: INFO: ***********Login Completed******************
+21122021 20:25:46: INFO: ***********Starting Add Customer ***************
+21122021 20:37:21: INFO: 
+
+21122021 20:37:21: INFO: ====== WebDriver manager ======
+21122021 20:37:21: INFO: Current google-chrome version is 96.0.4664
+21122021 20:37:21: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 20:37:21: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 20:37:23: INFO: ********Starting Test_010_AddCustomer **********
+21122021 20:37:34: INFO: ***********Login Completed******************
+21122021 20:37:34: INFO: ***********Starting Add Customer ***************
+21122021 20:40:15: INFO: 
+
+21122021 20:40:15: INFO: ====== WebDriver manager ======
+21122021 20:40:15: INFO: Current google-chrome version is 96.0.4664
+21122021 20:40:15: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 20:40:15: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 20:40:16: INFO: ********Starting Test_010_AddCustomer **********
+21122021 20:40:30: INFO: ***********Login Completed******************
+21122021 20:40:30: INFO: ***********Starting Add Customer ***************
+21122021 20:44:18: INFO: 
+
+21122021 20:44:18: INFO: ====== WebDriver manager ======
+21122021 20:44:18: INFO: Current google-chrome version is 96.0.4664
+21122021 20:44:18: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 20:44:18: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 20:44:19: INFO: ********Starting Test_010_AddCustomer **********
+21122021 20:44:31: INFO: ***********Login Completed******************
+21122021 20:44:31: INFO: ***********Starting Add Customer ***************
+21122021 20:46:55: INFO: 
+
+21122021 20:46:55: INFO: ====== WebDriver manager ======
+21122021 20:46:55: INFO: Current google-chrome version is 96.0.4664
+21122021 20:46:55: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 20:46:55: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 20:46:57: INFO: ********Starting Test_010_AddCustomer **********
+21122021 20:47:09: INFO: ***********Login Completed******************
+21122021 20:47:09: INFO: ***********Starting Add Customer ***************
+21122021 20:48:18: INFO: 
+
+21122021 20:48:18: INFO: ====== WebDriver manager ======
+21122021 20:48:18: INFO: Current google-chrome version is 96.0.4664
+21122021 20:48:18: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 20:48:18: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 20:48:20: INFO: ********Starting Test_010_AddCustomer **********
+21122021 20:49:09: INFO: ***********Login Completed******************
+21122021 20:49:09: INFO: ***********Starting Add Customer ***************
+21122021 20:59:32: INFO: 
+
+21122021 20:59:32: INFO: ====== WebDriver manager ======
+21122021 20:59:32: INFO: Current google-chrome version is 96.0.4664
+21122021 20:59:32: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 20:59:32: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 20:59:34: INFO: ********Starting Test_010_AddCustomer **********
+21122021 20:59:44: INFO: ***********Login Completed******************
+21122021 20:59:44: INFO: ***********Starting Add Customer ***************
+21122021 21:02:14: INFO: 
+
+21122021 21:02:14: INFO: ====== WebDriver manager ======
+21122021 21:02:14: INFO: Current google-chrome version is 96.0.4664
+21122021 21:02:14: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:02:15: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:02:17: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:02:34: INFO: ***********Login Completed******************
+21122021 21:02:34: INFO: ***********Starting Add Customer ***************
+21122021 21:05:02: INFO: 
+
+21122021 21:05:02: INFO: ====== WebDriver manager ======
+21122021 21:05:02: INFO: Current google-chrome version is 96.0.4664
+21122021 21:05:02: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:05:03: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:05:04: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:05:16: INFO: ***********Login Completed******************
+21122021 21:05:16: INFO: ***********Starting Add Customer ***************
+21122021 21:08:36: INFO: 
+
+21122021 21:08:36: INFO: ====== WebDriver manager ======
+21122021 21:08:36: INFO: Current google-chrome version is 96.0.4664
+21122021 21:08:36: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:08:38: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:08:40: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:08:51: INFO: ***********Login Completed******************
+21122021 21:08:51: INFO: ***********Starting Add Customer ***************
+21122021 21:13:31: INFO: 
+
+21122021 21:13:31: INFO: ====== WebDriver manager ======
+21122021 21:13:31: INFO: Current google-chrome version is 96.0.4664
+21122021 21:13:31: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:13:31: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:13:33: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:13:45: INFO: ***********Login Completed******************
+21122021 21:13:45: INFO: ***********Starting Add Customer ***************
+21122021 21:14:23: INFO: 
+
+21122021 21:14:23: INFO: ====== WebDriver manager ======
+21122021 21:14:23: INFO: Current google-chrome version is 96.0.4664
+21122021 21:14:23: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:14:23: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:14:25: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:14:38: INFO: ***********Login Completed******************
+21122021 21:14:38: INFO: ***********Starting Add Customer ***************
+21122021 21:18:34: INFO: 
+
+21122021 21:18:34: INFO: ====== WebDriver manager ======
+21122021 21:18:34: INFO: Current google-chrome version is 96.0.4664
+21122021 21:18:34: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:18:37: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:18:38: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:18:53: INFO: ***********Login Completed******************
+21122021 21:18:53: INFO: ***********Starting Add Customer ***************
+21122021 21:20:35: INFO: 
+
+21122021 21:20:35: INFO: ====== WebDriver manager ======
+21122021 21:20:36: INFO: Current google-chrome version is 96.0.4664
+21122021 21:20:36: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:20:36: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:20:37: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:20:49: INFO: ***********Login Completed******************
+21122021 21:20:49: INFO: ***********Starting Add Customer ***************
+21122021 21:24:08: INFO: 
+
+21122021 21:24:08: INFO: ====== WebDriver manager ======
+21122021 21:24:08: INFO: Current google-chrome version is 96.0.4664
+21122021 21:24:08: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:24:09: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:24:10: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:24:21: INFO: ***********Login Completed******************
+21122021 21:24:21: INFO: ***********Starting Add Customer ***************
+21122021 21:24:57: INFO: 
+
+21122021 21:24:57: INFO: ====== WebDriver manager ======
+21122021 21:24:57: INFO: Current google-chrome version is 96.0.4664
+21122021 21:24:57: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:24:57: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:24:59: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:25:11: INFO: ***********Login Completed******************
+21122021 21:25:11: INFO: ***********Starting Add Customer ***************
+21122021 21:27:20: INFO: 
+
+21122021 21:27:20: INFO: ====== WebDriver manager ======
+21122021 21:27:20: INFO: Current google-chrome version is 96.0.4664
+21122021 21:27:20: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:27:20: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:27:22: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:27:33: INFO: ***********Login Completed******************
+21122021 21:27:33: INFO: ***********Starting Add Customer ***************
+21122021 21:28:44: INFO: 
+
+21122021 21:28:44: INFO: ====== WebDriver manager ======
+21122021 21:28:44: INFO: Current google-chrome version is 96.0.4664
+21122021 21:28:44: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:28:44: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:28:45: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:29:06: INFO: ***********Login Completed******************
+21122021 21:29:06: INFO: ***********Starting Add Customer ***************
+21122021 21:31:24: INFO: 
+
+21122021 21:31:24: INFO: ====== WebDriver manager ======
+21122021 21:31:24: INFO: Current google-chrome version is 96.0.4664
+21122021 21:31:24: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:31:24: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:31:26: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:31:37: INFO: ***********Login Completed******************
+21122021 21:31:37: INFO: ***********Starting Add Customer ***************
+21122021 21:33:19: INFO: 
+
+21122021 21:33:19: INFO: ====== WebDriver manager ======
+21122021 21:33:19: INFO: Current google-chrome version is 96.0.4664
+21122021 21:33:19: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:33:19: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:33:21: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:33:31: INFO: ***********Login Completed******************
+21122021 21:33:31: INFO: ***********Starting Add Customer ***************
+21122021 21:35:29: INFO: 
+
+21122021 21:35:29: INFO: ====== WebDriver manager ======
+21122021 21:35:29: INFO: Current google-chrome version is 96.0.4664
+21122021 21:35:29: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+21122021 21:35:30: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+21122021 21:35:31: INFO: ********Starting Test_010_AddCustomer **********
+21122021 21:35:43: INFO: ***********Login Completed******************
+21122021 21:35:43: INFO: ***********Starting Add Customer ***************
+22122021 16:23:59: INFO: ********Starting Test_010_AddCustomer **********
+22122021 16:24:11: INFO: ***********Login Completed******************
+22122021 16:24:11: INFO: ***********Starting Add Customer ***************
+22122021 16:31:12: INFO: 
+
+22122021 16:31:12: INFO: ====== WebDriver manager ======
+22122021 16:31:12: INFO: Current google-chrome version is 96.0.4664
+22122021 16:31:12: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 16:31:13: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_win32.zip
+22122021 16:31:19: INFO: Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45]
+22122021 16:31:26: INFO: ********Starting Test_010_AddCustomer **********
+22122021 16:31:37: INFO: ***********Login Completed******************
+22122021 16:31:37: INFO: ***********Starting Add Customer ***************
+22122021 16:42:05: INFO: 
+
+22122021 16:42:05: INFO: ====== WebDriver manager ======
+22122021 16:42:05: INFO: Current google-chrome version is 96.0.4664
+22122021 16:42:05: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 16:42:05: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 16:42:07: INFO: ********Starting Test_010_AddCustomer **********
+22122021 16:42:18: INFO: ***********Login Completed******************
+22122021 16:42:18: INFO: ***********Starting Add Customer ***************
+22122021 16:50:22: INFO: 
+
+22122021 16:50:22: INFO: ====== WebDriver manager ======
+22122021 16:50:22: INFO: Current google-chrome version is 96.0.4664
+22122021 16:50:22: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 16:50:22: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 16:50:24: INFO: ********Starting Test_010_AddCustomer **********
+22122021 16:50:35: INFO: ***********Login Completed******************
+22122021 16:50:35: INFO: ***********Starting Add Customer ***************
+22122021 16:52:23: INFO: 
+
+22122021 16:52:23: INFO: ====== WebDriver manager ======
+22122021 16:52:23: INFO: Current google-chrome version is 96.0.4664
+22122021 16:52:23: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 16:52:23: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 16:52:25: INFO: ********Starting Test_010_AddCustomer **********
+22122021 16:52:35: INFO: ***********Login Completed******************
+22122021 16:52:35: INFO: ***********Starting Add Customer ***************
+22122021 16:55:34: INFO: 
+
+22122021 16:55:34: INFO: ====== WebDriver manager ======
+22122021 16:55:34: INFO: Current google-chrome version is 96.0.4664
+22122021 16:55:34: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 16:55:34: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 16:55:35: INFO: ********Starting Test_010_AddCustomer **********
+22122021 16:55:46: INFO: ***********Login Completed******************
+22122021 16:55:46: INFO: ***********Starting Add Customer ***************
+22122021 17:13:16: INFO: 
+
+22122021 17:13:16: INFO: ====== WebDriver manager ======
+22122021 17:13:16: INFO: Current google-chrome version is 96.0.4664
+22122021 17:13:16: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 17:13:17: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 17:13:18: INFO: ********Starting Test_010_AddCustomer **********
+22122021 17:13:29: INFO: ***********Login Completed******************
+22122021 17:13:29: INFO: ***********Starting Add Customer ***************
+22122021 17:14:28: INFO: 
+
+22122021 17:14:28: INFO: ====== WebDriver manager ======
+22122021 17:14:28: INFO: Current google-chrome version is 96.0.4664
+22122021 17:14:28: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 17:14:28: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 17:14:30: INFO: ********Starting Test_010_AddCustomer **********
+22122021 17:14:41: INFO: ***********Login Completed******************
+22122021 17:14:41: INFO: ***********Starting Add Customer ***************
+22122021 17:30:03: INFO: 
+
+22122021 17:30:03: INFO: ====== WebDriver manager ======
+22122021 17:30:03: INFO: Current google-chrome version is 96.0.4664
+22122021 17:30:03: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 17:30:03: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 17:30:06: INFO: ********Starting Test_010_AddCustomer **********
+22122021 17:30:15: INFO: ***********Login Completed******************
+22122021 17:30:15: INFO: ***********Starting Add Customer ***************
+22122021 17:30:33: INFO: *********** Add Customer Successful ***************
+22122021 17:30:33: INFO: ********Completed Test_010_AddCustomer **********
+22122021 18:08:41: INFO: 
+
+22122021 18:08:41: INFO: ====== WebDriver manager ======
+22122021 18:08:41: INFO: Current google-chrome version is 96.0.4664
+22122021 18:08:41: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:08:41: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:08:43: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:08:52: INFO: ***********Login Completed******************
+22122021 18:08:52: INFO: ***********Starting Add Customer ***************
+22122021 18:09:44: INFO: 
+
+22122021 18:09:44: INFO: ====== WebDriver manager ======
+22122021 18:09:44: INFO: Current google-chrome version is 96.0.4664
+22122021 18:09:44: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:09:44: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:09:46: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:09:57: INFO: ***********Login Completed******************
+22122021 18:09:57: INFO: ***********Starting Add Customer ***************
+22122021 18:12:43: INFO: 
+
+22122021 18:12:43: INFO: ====== WebDriver manager ======
+22122021 18:12:43: INFO: Current google-chrome version is 96.0.4664
+22122021 18:12:43: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:12:43: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:12:45: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:12:56: INFO: ***********Login Completed******************
+22122021 18:12:56: INFO: ***********Starting Add Customer ***************
+22122021 18:14:32: INFO: 
+
+22122021 18:14:32: INFO: ====== WebDriver manager ======
+22122021 18:14:32: INFO: Current google-chrome version is 96.0.4664
+22122021 18:14:32: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:14:32: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:14:34: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:14:44: INFO: ***********Login Completed******************
+22122021 18:14:44: INFO: ***********Starting Add Customer ***************
+22122021 18:16:41: INFO: 
+
+22122021 18:16:41: INFO: ====== WebDriver manager ======
+22122021 18:16:41: INFO: Current google-chrome version is 96.0.4664
+22122021 18:16:41: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:16:42: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:16:43: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:16:55: INFO: ***********Login Completed******************
+22122021 18:16:55: INFO: ***********Starting Add Customer ***************
+22122021 18:17:21: INFO: *********** Add Customer Successful ***************
+22122021 18:17:21: INFO: ********Completed Test_010_AddCustomer **********
+22122021 18:18:44: INFO: 
+
+22122021 18:18:44: INFO: ====== WebDriver manager ======
+22122021 18:18:44: INFO: Current google-chrome version is 96.0.4664
+22122021 18:18:44: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:18:44: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:18:46: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:18:56: INFO: ***********Login Completed******************
+22122021 18:18:56: INFO: ***********Starting Add Customer ***************
+22122021 18:19:22: INFO: *********** Add Customer Successful ***************
+22122021 18:19:22: INFO: ********Completed Test_010_AddCustomer **********
+22122021 18:27:25: INFO: 
+
+22122021 18:27:25: INFO: ====== WebDriver manager ======
+22122021 18:27:25: INFO: Current google-chrome version is 96.0.4664
+22122021 18:27:25: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:27:25: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:27:27: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:27:37: INFO: ***********Login Completed******************
+22122021 18:27:37: INFO: ***********Starting Add Customer ***************
+22122021 18:32:38: INFO: 
+
+22122021 18:32:38: INFO: ====== WebDriver manager ======
+22122021 18:32:38: INFO: Current google-chrome version is 96.0.4664
+22122021 18:32:38: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:32:38: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:32:40: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:32:50: INFO: ***********Login Completed******************
+22122021 18:32:50: INFO: ***********Starting Add Customer ***************
+22122021 18:34:37: INFO: 
+
+22122021 18:34:37: INFO: ====== WebDriver manager ======
+22122021 18:34:37: INFO: Current google-chrome version is 96.0.4664
+22122021 18:34:37: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:34:38: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:34:40: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:34:51: INFO: ***********Login Completed******************
+22122021 18:34:51: INFO: ***********Starting Add Customer ***************
+22122021 18:43:28: INFO: 
+
+22122021 18:43:28: INFO: ====== WebDriver manager ======
+22122021 18:43:28: INFO: Current google-chrome version is 96.0.4664
+22122021 18:43:28: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:43:29: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:43:30: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:43:40: INFO: ***********Login Completed******************
+22122021 18:43:40: INFO: ***********Starting Add Customer ***************
+22122021 18:46:41: INFO: 
+
+22122021 18:46:41: INFO: ====== WebDriver manager ======
+22122021 18:46:41: INFO: Current google-chrome version is 96.0.4664
+22122021 18:46:41: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:46:42: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:46:43: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:46:54: INFO: ***********Login Completed******************
+22122021 18:46:54: INFO: ***********Starting Add Customer ***************
+22122021 18:51:50: INFO: 
+
+22122021 18:51:50: INFO: ====== WebDriver manager ======
+22122021 18:51:50: INFO: Current google-chrome version is 96.0.4664
+22122021 18:51:50: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:51:50: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:51:52: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:52:08: INFO: ***********Login Completed******************
+22122021 18:52:08: INFO: ***********Starting Add Customer ***************
+22122021 18:52:33: INFO: *********** Add Customer Successful ***************
+22122021 18:52:33: INFO: ********Completed Test_010_AddCustomer **********
+22122021 18:53:14: INFO: 
+
+22122021 18:53:14: INFO: ====== WebDriver manager ======
+22122021 18:53:14: INFO: Current google-chrome version is 96.0.4664
+22122021 18:53:14: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:53:15: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:53:16: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:53:25: INFO: ***********Login Completed******************
+22122021 18:53:25: INFO: ***********Starting Add Customer ***************
+22122021 18:53:47: INFO: *********** Add Customer Successful ***************
+22122021 18:53:47: INFO: ********Completed Test_010_AddCustomer **********
+22122021 18:56:32: INFO: 
+
+22122021 18:56:32: INFO: ====== WebDriver manager ======
+22122021 18:56:32: INFO: Current google-chrome version is 96.0.4664
+22122021 18:56:32: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:56:32: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:56:34: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:56:45: INFO: ***********Login Completed******************
+22122021 18:56:45: INFO: ***********Starting Add Customer ***************
+22122021 18:57:29: INFO: 
+
+22122021 18:57:29: INFO: ====== WebDriver manager ======
+22122021 18:57:29: INFO: Current google-chrome version is 96.0.4664
+22122021 18:57:29: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+22122021 18:57:30: INFO: Driver [C:\Users\user\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+22122021 18:57:31: INFO: ********Starting Test_010_AddCustomer **********
+22122021 18:57:42: INFO: ***********Login Completed******************
+22122021 18:57:42: INFO: ***********Starting Add Customer ***************
+22122021 18:58:05: INFO: *********** Add Customer Successful ***************
+22122021 18:58:05: INFO: ********Completed Test_010_AddCustomer **********

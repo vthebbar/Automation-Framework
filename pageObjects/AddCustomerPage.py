@@ -24,10 +24,11 @@ class AddCustomer:
     txt_Company_id = "Company"
     chkbox_IsTaxExempt_id = "IsTaxExempt"
 
-    txt_Newsletter_xpath = "//input[@class='k-input k-readonly']"
+    txt_Newsletter_xpath = "//div[@class='k-multiselect-wrap k-floatwrap']"
+    #"//input[@class='k-input k-readonly']"
     #new letter values-start
-    lstItem_YouStoreName_xpath = "//span[text()='Your store name']"
-    lstItem_Teststore2_xpath = "//span[text()='Test store 2']"
+    #lstItem_YouStoreName_xpath = "//li[text()='Your store name']"
+    #lstItem_Teststore2_xpath = "//li[text()='Test store 2']"
     # new letter values-end
 
     txt_CustomerRoles_xpath = "//ul[@id='SelectedCustomerRoleIds_taglist']"
@@ -50,7 +51,7 @@ class AddCustomer:
         self.driver = driver
 
 
-    def click_on_customes_menu(self, driver):
+    def click_on_customes_menu(self):
         self.driver.find_element(By.XPATH,self.lnk_CustomersMainMenu_xpath).click()
 
         #ele = WebDriverWait(driver,10).until(EC.visibility_of_element_located((By.XPATH,self.lnk_CustomersMainMenu_xpath)))
@@ -100,34 +101,46 @@ class AddCustomer:
         else:
             pass
 
-    def set_news_letter(self, selectnews):
-        self.driver.find_element(By.XPATH, self.txt_Newsletter_xpath).clear()
-        self.driver.find_element(By.XPATH, self.txt_Newsletter_xpath).click()
+    # Function is able to select multiple value for Newsletter field
+    def set_news_letter(self, news_letter_list, select_news):
+        time.sleep(1)
+        for n in news_letter_list:
+            ele = n.get_attribute('text')
+            print("Element=", ele)
+            for s in select_news:
+                if ele == s:
+                    self.driver.find_element(By.XPATH,"//*[@id='customer-info']/div[2]/div[9]/div[2]/div/div[1]/div/div").click()
+                    time.sleep(2)
+                    self.news_list_item = self.driver.find_element(By.XPATH,"//li[text()='"+s+"']").click()
+                    time.sleep(2)
+                    break
+                #self.driver.execute_script("arguments[0].click();", self.news_list_item)
 
-    # if need to select multiple roles, call this method multiple times
-    def set_customer_roles(self, role):
-        self.driver.find_element(By.XPATH, self.txt_CustomerRoles_xpath).click()
-        time.sleep(2)
-        if role == "Registered":
-            self.listitem = self.driver.find_element(By.XPATH, self.lstItem_Registered_xpath)
-        elif role == "Administrators":
-            self.listitem = self.driver.find_element(By.XPATH, self.lstItem_Administrators_xpath)
-        elif role == "Guest":
-            time.sleep(2)
-            self.driver.find_element(By.XPATH, self.remove_Registered_xpath).click()
-            # Business rule-user can be Guest or Registered only one
-            self.listitem = self.driver.find_element(By.XPATH,self.lstItem_Guests_xpath)
-        elif role == "Vendors":
-            self.listitem = self.driver.find_element(By.XPATH, self.lstItem_Vendors_xpath)
+    # if need to select multiple roles, can pass multiple values
+
+    def set_customer_roles(self, elements_list, values_to_select):
+
+        if len(values_to_select) == 1 and values_to_select[0] == "Registered":
+            pass
         else:
-            self.listitem = self.driver.find_element(By.XPATH, self.lstItem_Guests_xpath)
-        time.sleep(2)
-        self.driver.execute_script("arguments[0].click();", self.listitem)
-        #self.listitem.click()
-
+            for e in elements_list:
+                e_text_value = e.get_attribute('text')
+                for v in values_to_select:
+                    if e_text_value == v:
+                        if v == "Guest":
+                            time.sleep(2)
+                            self.driver.find_element(By.XPATH, self.remove_Registered_xpath).click()
+                        if v == "Registered":
+                            break
+                        self.driver.find_element(By.XPATH,
+                                            "//*[@id='customer-info']/div[2]/div[10]/div[2]/div/div[1]/div/div").click()
+                        time.sleep(2)
+                        self.driver.find_element(By.XPATH, "//li[text()='" + v + "']").click()
+                        time.sleep(2)
+                        break
 
     def set_manager_of_vendor(self, value):
-        drop_down_element = self.driver.find_element(By.XPATH,self.drpdown_ManagerOfVendor_id)
+        drop_down_element = self.driver.find_element(By.ID,self.drpdown_ManagerOfVendor_id)
         select = Select(drop_down_element)
         select.select_by_visible_text(value)
 
