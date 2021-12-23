@@ -16,6 +16,7 @@ class Test_001_Login:   # Specify test case ID here in class name
 
     logger = LogGen.log_gen()     # class name. method name,  it will return logger object
 
+    @pytest.mark.regression
     def test_homePageTitle(self, setup):
         self.logger.info("***********Test_001_Login**********")
         self.logger.info("***********Verify Home Page Title**********")
@@ -34,6 +35,8 @@ class Test_001_Login:   # Specify test case ID here in class name
             self.logger.error("***********Verify Home Page Title - FAILED **********")
             assert False
 
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_login(self, setup):
         self.logger.info("***********Verify Login Page Title**********")
         self.driver = setup

@@ -15,6 +15,7 @@ class Test_002_DDT_Login:   # Specify test case ID here in class name
 
     logger = LogGen.log_gen()
 
+    @pytest.mark.functional
     def test_login_ddt(self, setup):
         self.logger.info("***********Test_002_DDT_Login**********")
         self.logger.info("***********Verifying Login DDT **********")

@@ -28,6 +28,7 @@ def pytest_addoption(parser):   # This method will get value from command line I
     parser.addoption("--browser")
 
 
+
 @pytest.fixture()
 def browser(request):   # This will return browser value to set up method
     return request.config.getoption("--browser")

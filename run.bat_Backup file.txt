@@ -1,0 +1,15 @@
+pytest -s -v -m  “sanity or regression or functional”  --html=./Reports/report_chrome.html  testCases/   --browser chrome --capture=tee-sys
+pytest -s -v -m  “sanity and regression and functional”  --html=./Reports/report_firefox.html  testCases/   --browser firefox --capture=tee-sys
+
+
+rem comment - line starting with rem are  comment
+
+rem pytest -s -v -m  “marker_name1 and marker_name2”  --html=./Reports/report1.html  testCases/   --browser chrome --capture=tee-sys
+rem pytest -s -v -m  “marker_name1 and marker_name2”  --html=./Reports/report1.html  testCases/   --browser chrome --capture=tee-sys
+ 
+rem pytest -v -s -m  "sanity or regression or functional" --html=./Reports/report.html testCases/ --browser chrome --capture=tee-sys
+rem pytest -v -s -m  "sanity and regression and functional" --html=./Reports/report.html testCases/ --browser chrome --capture=tee-sys
+
+
+rem pytest -v -s -m  "sanity or regression or functional" -n=3 --html=./Reports/report.html testCases/ --browser chrome --capture=tee-sys
+rem -n=3 is for parallel run , somes test cases may not support paralle run

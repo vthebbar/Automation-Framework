@@ -1,5 +1,6 @@
 import time
 
+import pytest
 from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
@@ -18,6 +19,9 @@ class Test_010_AddCustomer:
 
     logger = LogGen.log_gen() # Logger to generate log
 
+    @pytest.mark.order("first")
+    @pytest.mark.regression
+    @pytest.mark.functional
     def test_AddCustomer(self, setup):
         self.logger.info("********Starting Test_010_AddCustomer **********")
         self.driver = setup
@@ -75,10 +79,13 @@ class Test_010_AddCustomer:
         self.addCustomer.click_save()
         time.sleep(2)
 
-        message_element = self.driver.find_element(By.XPATH,"//div[@class='alert alert-success alert-dismissable']")
-        message_text = message_element.text
-        print(message_text)
-        if "The new customer has been added successfully" in message_text:
+        #message_element = self.driver.find_element(By.XPATH,"//div[@class='alert alert-success alert-dismissable']")
+        self.message_element=self.driver.find_element(By.TAG_NAME,"body")
+        self.message_text = self.message_element.text
+        print(self.message_text)
+        self.success_msg ="The new customer has been added successfully"
+
+        if self.success_msg in self.message_text:
 
             self.logger.info("*********** Add Customer Successful ***************")
             self.driver.save_screenshot(".\\Screenshots\\Test_010_AddCustomer_Pass.png")

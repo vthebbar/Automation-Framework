@@ -43,25 +43,25 @@ class SearchCustomer:
         return len(col)
 
     def search_customer_by_email(self, email):
-        flag = 0
+        flag = "Not Found"
         for r in range(1,self.get_no_of_rows()+1):  # 0 excluded , as it is table header
             table = self.driver.find_element(By.XPATH,self.search_results_xpath)
             emailid = table.find_element(By.XPATH,"//table[@id='customers-grid']//tbody/tr["+str(r)+"]/td[2]").text
 
             if emailid == email:
-                flag = 1
+                flag = "Found"
                 break
         return flag
 
 
     def search_customer_by_name(self, name):
-        flag = 0
+        flag = "Not Found"
         for r in range(1,self.get_no_of_rows()+1):  # 0 excluded , as it is table header
             table = self.driver.find_element(By.XPATH,self.search_results_xpath)
             tbl_name = table.find_element(By.XPATH,"//table[@id='customers-grid']//tbody/tr["+str(r)+"]/td[3]").text
 
             if tbl_name == name:
-                flag = 1
+                flag = "Found"
                 break
         return flag
 
